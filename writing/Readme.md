@@ -7,4 +7,4 @@ The public repository has a new and seperate R project for the assignment: Homic
 - `data/`: homicide dataset from the Washington Post 
 - `script/`: HW5 RMarkdown file
 - `writing/`: RMarkdown file and PDF output  
-- `figures/`: figures generated in the analysis are in the RMarkdown file as answer to part 
+- `figures/`: figures generated in the analysis are in the RMarkdown file as answer to part 7
